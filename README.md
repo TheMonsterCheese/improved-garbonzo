@@ -1,2 +1,2 @@
-# improved-garbonzo
+# improved-garbanzo
 big bean
